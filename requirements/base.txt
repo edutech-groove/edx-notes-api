@@ -14,3 +14,4 @@ newrelic==4.8.0.110            # New Relic
 edx-django-release-util==0.3.1
 edx-django-utils==1.0.1
 edx-drf-extensions==2.0.0
+edx-opaque-keys==2.1.1
